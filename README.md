@@ -10,9 +10,9 @@ I enjoy building software applications, solving algorithmic problems, and learni
 
 - 🎓 B.Sc. Computer Science & Artificial Intelligence — Information Systems
 - 💻 Interested in Software Development and Backend Engineering
-- 🧠 Solved 1000+ Competitive Programming Problems
+- 🧠 Solved 2000+ Competitive Programming Problems
 - 🏆 ECPC Finalist — 2025 & 2026
-- ⭐ Codeforces rating up to 1700
+- ⭐ Codeforces rating up to 1900
 - 🌱 Currently improving my backend and software engineering skills
 
 ## 🛠️ Technical Skills
@@ -51,7 +51,7 @@ I enjoy building software applications, solving algorithmic problems, and learni
 
 ## 🏆 Competitive Programming
 
-- 1000+ problems solved
+- 2000+ problems solved
 - Codeforces
 - SPOJ
 - AtCoder
