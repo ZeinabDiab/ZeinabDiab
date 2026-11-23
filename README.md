@@ -33,7 +33,6 @@ I'm a Computer Science student passionate about **Software Engineering, Backend 
 I enjoy transforming complex problems into structured, efficient, and maintainable software solutions. My interests span backend architecture, database engineering, algorithmic problem-solving, and AI-powered applications.
 
 - 🎓 **Education:** B.Sc. Computer Science & AI — Expected June 2027.
-- 🏆 **Academic Ranking:** 4th in my major | GPA: 3.3/4.0.
 - 💻 **Specialization:** Backend Development & Software Engineering.
 - 🐍 **Primary Stack:** Python, Django, SQL, PostgreSQL.
 - 🧠 **Competitive Programming:** 2,000+ problems solved.
@@ -255,7 +254,7 @@ A client-facing e-commerce web application developed as a freelance project.
 
 | Achievement | Result |
 |---|---|
-| USC — ECPC Final 2026 | 🥉 3rd Place |
+| USC — ECPC Final 2026 | 🥉 4th Place |
 | USC — ECPC Final 2025 | 🏅 4th Place |
 | ECPC Finalist | 2025 & 2026 |
 | Competitive Programming | 2,000+ Problems |
